@@ -631,3 +631,17 @@ a {
 .reviews-container {
     margin-bottom: 125px;
 }
+
+.download {
+    display: flex;
+    gap: 20px;
+    margin: 15px 0;
+}
+
+.download img {
+    cursor: pointer;
+}
+
+.sosmed svg {
+    cursor: pointer;
+}
